@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csproj", "{31EE1332-5F16-42C0-B15C-38762B370E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbLibrary", "DbLibrary\DbLibrary.csproj", "{75DC36B0-E192-4378-B1FA-C88AB70DF681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TgBot", "TgBot\TgBot.csproj", "{FAC8818B-274E-42C1-91EA-5F3A35A87C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EE1332-5F16-42C0-B15C-38762B370E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EE1332-5F16-42C0-B15C-38762B370E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EE1332-5F16-42C0-B15C-38762B370E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EE1332-5F16-42C0-B15C-38762B370E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75DC36B0-E192-4378-B1FA-C88AB70DF681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DC36B0-E192-4378-B1FA-C88AB70DF681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DC36B0-E192-4378-B1FA-C88AB70DF681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DC36B0-E192-4378-B1FA-C88AB70DF681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC8818B-274E-42C1-91EA-5F3A35A87C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC8818B-274E-42C1-91EA-5F3A35A87C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC8818B-274E-42C1-91EA-5F3A35A87C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC8818B-274E-42C1-91EA-5F3A35A87C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
